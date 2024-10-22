@@ -1,4 +1,5 @@
 # ConnectX-AI
+<img src="https://github.com/ErikDervishi03/connectx-AI/blob/master/img/connect.jpg" alt="connectx" width="300"/>
 
 ## Table of Contents
 1. [Introduction](#1-introduction)
